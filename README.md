@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ASP.Net Core MVC and Razor Pages**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArashBan](Here)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/ArashBan)
 
 - 💬 Ask me about **C#, .Net Core, SQL Server**
 
