@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arash Baniashkar</h1>
+<h1 align="center">Hi 👋, I'm Arash 👨‍💻</h1>
 <h3 align="center">A passionate Back-End Developer!</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/arash-baniashkar-325381247" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arash-baniashkar-325381247" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20968043/arashban" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20968043/arashban" height="30" width="40" /></a>
 <a href="https://instagram.com/iarashban" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iarashban" height="30" width="40" /></a>
-<a href="https://discord.gg/Arash#1010" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Arash#1010" height="30" width="40" /></a>
+<a href="https://discord.gg/arashban" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Arash#1010" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
