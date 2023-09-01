@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **C#, .Net Core, SQL Server**
 
-- 📫 How to reach me **ArashBaniashkar@gmail.com**
+- 📫 How to reach me **[ArashBaniashkar@gmail.com](https://www.linkedin.com/in/arash-baniashkar-325381247/)**
 
-- ⚡ Fun fact **I love BasketBall and Guitar**
+- ⚡ Fun fact **I play Guitar and BasketBall**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
