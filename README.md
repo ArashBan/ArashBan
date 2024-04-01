@@ -1,15 +1,15 @@
 <div align="center">
-  <img height="250" src="https://www.cambria.com/img/desktop/learn/mlp-15-01-programming_csharp.jpg"  />
+  <img height="250" src="https://www.cambria.com/img/desktop/learn/mlp-15-01-programming_csharp.jpg" href="#" />
 </div>
 
 ###
 
-<p align="left">I am a bachelor's student of computer software at Yadgar Imam Khomeini University.<br>I am very interested in C# programming language. For this reason I work with the .NET library, I started learning this technology with Windows Forms and then continued with ASP.NET Core and web development.<br>Currently, I am looking for continuous and increasing experience and learning in related fields.</p>
+<h4 align="center">I am a bachelor's student of computer software at Yadgar Imam Khomeini University.<br>I am very interested in C# programming language. For this reason I work with the .NET library, I started learning this technology with Windows Forms and then continued with ASP.NET Core and web development.<br>Currently, I am looking for continuous and increasing experience and learning in related fields.</h4>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="40" alt="csharp logo" href="#" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
@@ -38,9 +38,15 @@
   <a href="https://www.linkedin.com/in/arash-baniashkar-325381247/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat" height="30" alt="stackoverflow logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
+  <a href="https://stackoverflow.com/users/20968043/arashban" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat" height="30" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://discord.gg/arashban" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://instagram.com/iarashban" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
