@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">I am a bachelor's student of computer software at Yadgar Imam Khomeini University.<br>I am very interested in C# programming language. For this reason I work with the .NET library, I started learning this technology with Windows Forms and then continued with ASP.NET Core and web development.<br>Currently, I am looking for continuous and increasing experience and learning in related fields.</h4>
+<h4 align="center">Hey there, I am Arash! A 22-year-old Developer and a Computer Software student. My passion for coding started when I was a teenager and I haven't stopped learning and growing since then. My expertise lies in C#, and I have about 4 years of experience in the field. <br>I began my journey with Windows Forms Application technology, but my curiosity and thirst for knowledge led me to explore the web world. I picked up ASP.NET for Back-End and learned HTML/CSS and TypeScript in Front-End at the introductory level. I love the challenge of constantly learning new technologies and staying updated with the latest trends in the industry. <br>In addition, I also have good problem-solving abilities and I have practical experience with OOP. I believe in writing clean and efficient code that not only works but is also easy to maintain. I am a team player and enjoy collaborating with others to create innovative solutions. Let's share our experiences and grow together in our professional journey!</h4>
 
 ###
 
@@ -18,8 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -57,7 +55,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArashBan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArashBan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ArashBan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
